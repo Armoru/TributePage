@@ -1,3 +1,3 @@
 # TributePage
-TributePage Challange in freecodecamp \n
+TributePage Challange in freecodecamp
 
